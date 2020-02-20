@@ -13,14 +13,14 @@ Just run the targets DynamicPushAnswers then the NotificationService.
 
 ## License
 
-DynamicPushAnswers are distributed under the MIT
+DynamicPushAnswers is distributed under the MIT
 license (see LICENSE.md).
 
 Buy me a beer
 =================
 #### If you like my work, please buy me a beer (tap the beer):
 <p align="left">
-<a href="http://www.g8production.com/Beer#_=_" alt="If you like my work, please buy me a beer ">
+<a href="https://g8production.tumblr.com/beer" alt="If you like my work, please buy me a beer ">
 <img style="-webkit-user-select: none;"
 src="http://68.media.tumblr.com/3243ca9030c3fa14ca3042344ae3d510/tumblr_inline_ng26w7z8SG1qmlajm.png">
 </a>
