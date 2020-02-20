@@ -5,7 +5,7 @@ Dynamic Actions on Rich Push Notification **[medium](https://medium.com/@daniele
 
 This project shows how to create UNNotificationAction and UNNotificationCategory on the fly (when the app is active).
 
-Just run the targets DynamicPushAnswers then the NotificationService.
+Just run the target DynamicPushAnswers then the NotificationService.
 
 **[Push payload here](https://gist.github.com/gali8/924e2653325aedd6f46904af4b582de7)**
 
