@@ -20,7 +20,8 @@ extension PushManager {
                    "title": "www.nexor.it",
                    "body": "Rispondi a questo interessante sondaggio"
                  },
-                 "sound": "default"
+                 "sound": "default",
+                 "mutable-content": 1
                },
                "data": {
                  "question": {
